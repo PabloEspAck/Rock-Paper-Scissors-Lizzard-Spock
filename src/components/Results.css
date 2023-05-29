@@ -1,0 +1,58 @@
+.ButtonGame {
+    display: block;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+  }
+  
+  .ButtonGameNone {
+    display: none;
+  }
+  
+  h2 {
+    color: white;
+  }
+  
+  .Results-Container {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 120px;
+    padding-bottom: 50px;
+  }
+  
+  .circle-game {
+    border-radius: 50%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 13vmax;
+    width: 13vmax;
+    padding: 8px;
+    border: solid 0.5em green;
+  }
+  
+  .text {
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: xx-large;
+  }
+  
+  .text-game {
+    font-size: small;
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  .buttonDesign {
+    width: 180px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: white;
+font-family: "Barlow Semi Condensed", sans-serif";
+  }
+
+  .houseContainer {
+    display: flex;
+  justify-content: center;
+  }
